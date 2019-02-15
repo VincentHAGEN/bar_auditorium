@@ -1,6 +1,6 @@
 ---
 ID: 9
-post_title: Programmes
+post_title: Programme
 author: admin-bar-auditorium
 post_excerpt: ""
 layout: page
