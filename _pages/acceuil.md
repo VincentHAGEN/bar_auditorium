@@ -6,5 +6,5 @@ post_excerpt: ""
 layout: page
 permalink: https://bar-auditorium.fr/acceuil
 published: true
-post_date: 2019-02-20 14:20:41
+post_date: 2019-02-20 14:14:37
 ---
