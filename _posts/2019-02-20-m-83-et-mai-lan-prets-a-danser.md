@@ -1,6 +1,6 @@
 ---
 ID: 73
-post_title: M-83 et Mai Lan, prêts à danser
+post_title: M-83 et Mai Lan
 author: admin-bar-auditorium
 post_excerpt: ""
 layout: post
