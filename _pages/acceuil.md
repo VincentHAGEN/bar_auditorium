@@ -58,4 +58,3 @@ post_date: 2019-02-20 14:14:37
 			<a href="#" role="button">
 						TOUS LES ACTUS
 					</a>
-										<img src="https://bar-auditorium.fr/wp-content/plugins/elementor/assets/images/placeholder.png" title="" alt="" />
