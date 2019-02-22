@@ -4,7 +4,7 @@ post_title: Acceuil
 author: admin-bar-auditorium
 post_excerpt: ""
 layout: page
-permalink: https://bar-auditorium.fr/acceuil
+permalink: https://bar-auditorium.fr/
 published: true
 post_date: 2019-02-20 14:14:37
 ---
@@ -73,18 +73,18 @@ post_date: 2019-02-20 14:14:37
         </fieldset>
 		</form>		
 			<h4>SUIVEZ-NOUS</h4>		
-							<a href="" target="_blank">
+							<a href="" target="_blank" rel="noopener noreferrer">
 					Facebook
 				</a>
-							<a href="" target="_blank">
+							<a href="" target="_blank" rel="noopener noreferrer">
 					Twitter
 				</a>
-							<a href="" target="_blank">
+							<a href="" target="_blank" rel="noopener noreferrer">
 					Instagram
 				</a>
-							<a href="" target="_blank">
+							<a href="" target="_blank" rel="noopener noreferrer">
 					Youtube
 				</a>
-							<a href="" target="_blank">
+							<a href="" target="_blank" rel="noopener noreferrer">
 					Snapchat
 				</a>
