@@ -1,6 +1,6 @@
 ---
 ID: 169
-post_title: Artistes
+post_title: ARTISTES
 author: admin-bar-auditorium
 post_excerpt: ""
 layout: page
