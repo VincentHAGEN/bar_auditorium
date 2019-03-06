@@ -59,7 +59,7 @@ post_date: 2019-02-20 14:14:37
 						TOUS LES ACTUS
 					</a>
 			<h4>NEWSLETTER</h4>		
-			<form action="https://bar-auditorium.fr/wp-admin/admin-post.php" method="post" name="content-form-3e35599" id="content-form-3e35599"><input type="hidden" id="_wpnonce_newsletter" name="_wpnonce_newsletter" value="1ffa0d84bd" /><input type="hidden" name="_wp_http_referer" value="/wp-admin/admin-ajax.php" /><input type="hidden" name="action" value="content_form_submit" /><input type="hidden" name="form-type" value="newsletter" /><input type="hidden" name="form-builder" value="elementor" /><input type="hidden" name="post-id" value="75" /><input type="hidden" name="form-id" value="3e35599" />
+			<form action="https://bar-auditorium.fr/wp-admin/admin-post.php" method="post" name="content-form-3e35599" id="content-form-3e35599"><input type="hidden" id="_wpnonce_newsletter" name="_wpnonce_newsletter" value="f28afbfc0f" /><input type="hidden" name="_wp_http_referer" value="/wp-admin/admin-ajax.php" /><input type="hidden" name="action" value="content_form_submit" /><input type="hidden" name="form-type" value="newsletter" /><input type="hidden" name="form-builder" value="elementor" /><input type="hidden" name="post-id" value="75" /><input type="hidden" name="form-id" value="3e35599" />
         <fieldset>
             <label for="data[3e35599][email]"
 				>
@@ -103,5 +103,5 @@ post_date: 2019-02-20 14:14:37
 <li><a href="https://bar-auditorium.fr/mentions-legales/">Mentions légales</a></li>
 </ul>			
 		</nav>
-											<a href="https://www.bar-auditorium.fr/#main-menu" data-elementor-open-lightbox="">
+											<a href="https://www.bar-auditorium.fr/#" data-elementor-open-lightbox="">
 							<img width="48" height="48" src="https://bar-auditorium.fr/wp-content/uploads/2019/02/paper-fab-arrow-forward.png" alt="bouton-retour-haut-page" />								</a>
