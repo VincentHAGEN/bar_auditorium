@@ -5,7 +5,7 @@ author: admin-bar-auditorium
 post_excerpt: ""
 layout: post
 permalink: >
-  https://bar-auditorium.fr/halsey-bad-at-love
+  https://bar-auditorium.fr/halsey-bad-at-love/
 published: true
 post_date: 2019-02-20 14:56:27
 ---
