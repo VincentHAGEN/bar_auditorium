@@ -5,7 +5,7 @@ author: admin-bar-auditorium
 post_excerpt: ""
 layout: post
 permalink: >
-  https://bar-auditorium.fr/m-83-et-mai-lan-prets-a-danser
+  https://bar-auditorium.fr/m-83-et-mai-lan-prets-a-danser/
 published: true
 post_date: 2019-02-20 15:00:19
 ---
