@@ -26,17 +26,6 @@ post_date: 2019-02-15 09:14:19
 		</nav>
 			<h2>ACTUALITÉS </h2>		
 			<article>					
-						<a href="https://bar-auditorium.fr/halsey-bad-at-love/" title="Halsey, &#8220;Bad At Love&#8221;">
-							<img width="1080" height="720" src="https://bar-auditorium.fr/wp-content/uploads/2019/02/photo-1505842465776-3b4953ca4f44.jpg" alt="photo-actualités" srcset="https://bar-auditorium.fr/wp-content/uploads/2019/02/photo-1505842465776-3b4953ca4f44.jpg 1080w, https://bar-auditorium.fr/wp-content/uploads/2019/02/photo-1505842465776-3b4953ca4f44-300x200.jpg 300w, https://bar-auditorium.fr/wp-content/uploads/2019/02/photo-1505842465776-3b4953ca4f44-768x512.jpg 768w, https://bar-auditorium.fr/wp-content/uploads/2019/02/photo-1505842465776-3b4953ca4f44-1024x683.jpg 1024w" sizes="(max-width: 1080px) 100vw, 1080px" />						</a>
-							<h3>
-							<a href="https://bar-auditorium.fr/halsey-bad-at-love/" title="Halsey, &#8220;Bad At Love&#8221;">
-					Halsey, &#8220;Bad At Love&#8221;				</a>
-							</h3>
-									février 20, 2019								
-				Halsey poursuit la promotion de son deuxième album &#8220;Hopeless Fountain Kingdom&#8221;. Après &#8220;Now or Never&#8221;, la chanteuse américaine&#8230;			
-				<a href="https://bar-auditorium.fr/halsey-bad-at-love/"
-				   title="Voir plus">Voir plus</a>
-			<!-- .obfx-grid-col-content --></article><article>					
 						<a href="https://bar-auditorium.fr/royksopp-en-selle/" title="Royksopp, en selle">
 							<img width="759" height="500" src="https://bar-auditorium.fr/wp-content/uploads/2019/02/Röyksopp-1.jpg" alt="royksopp-en-selle" srcset="https://bar-auditorium.fr/wp-content/uploads/2019/02/Röyksopp-1.jpg 759w, https://bar-auditorium.fr/wp-content/uploads/2019/02/Röyksopp-1-300x198.jpg 300w" sizes="(max-width: 759px) 100vw, 759px" />						</a>
 							<h3>
@@ -46,6 +35,17 @@ post_date: 2019-02-15 09:14:19
 									février 20, 2019								
 				Le groupe de musique électropop Royksopp délivre déjà son cinquième album, &#8220;Gravity The Seducer&#8221;, devancé par&#8230;			
 				<a href="https://bar-auditorium.fr/royksopp-en-selle/"
+				   title="Voir plus">Voir plus</a>
+			<!-- .obfx-grid-col-content --></article><article>					
+						<a href="https://bar-auditorium.fr/halsey-bad-at-love/" title="Halsey, &#8220;Bad At Love&#8221;">
+							<img width="1080" height="720" src="https://bar-auditorium.fr/wp-content/uploads/2019/02/photo-1505842465776-3b4953ca4f44.jpg" alt="photo-actualités" srcset="https://bar-auditorium.fr/wp-content/uploads/2019/02/photo-1505842465776-3b4953ca4f44.jpg 1080w, https://bar-auditorium.fr/wp-content/uploads/2019/02/photo-1505842465776-3b4953ca4f44-300x200.jpg 300w, https://bar-auditorium.fr/wp-content/uploads/2019/02/photo-1505842465776-3b4953ca4f44-768x512.jpg 768w, https://bar-auditorium.fr/wp-content/uploads/2019/02/photo-1505842465776-3b4953ca4f44-1024x683.jpg 1024w" sizes="(max-width: 1080px) 100vw, 1080px" />						</a>
+							<h3>
+							<a href="https://bar-auditorium.fr/halsey-bad-at-love/" title="Halsey, &#8220;Bad At Love&#8221;">
+					Halsey, &#8220;Bad At Love&#8221;				</a>
+							</h3>
+									février 20, 2019								
+				Halsey poursuit la promotion de son deuxième album &#8220;Hopeless Fountain Kingdom&#8221;. Après &#8220;Now or Never&#8221;, la chanteuse américaine&#8230;			
+				<a href="https://bar-auditorium.fr/halsey-bad-at-love/"
 				   title="Voir plus">Voir plus</a>
 			<!-- .obfx-grid-col-content --></article><article>					
 						<a href="https://bar-auditorium.fr/m-83-et-mai-lan-prets-a-danser/" title="M-83 et Mai Lan">
