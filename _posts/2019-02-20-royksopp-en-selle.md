@@ -5,7 +5,7 @@ author: admin-bar-auditorium
 post_excerpt: ""
 layout: post
 permalink: >
-  https://bar-auditorium.fr/royksopp-en-selle
+  https://bar-auditorium.fr/royksopp-en-selle/
 published: true
 post_date: 2019-02-20 15:02:56
 ---
