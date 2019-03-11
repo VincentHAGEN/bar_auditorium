@@ -66,6 +66,8 @@ post_date: 2019-02-15 09:15:28
 					Contenu d’accordéon
 												<a href="">Autres infos</a>
 					Contenu d’accordéon
+				<h4>DORMIR</h4>
+		<p>Cherchez ici de quoi vous assurer de pouvoir vous reposer et faire le plein d’énergie !</p>		
 			<h4>NEWSLETTER</h4>		
 			<form action="https://bar-auditorium.fr/wp-admin/admin-post.php" method="post" name="content-form-442651e0" id="content-form-442651e0"><input type="hidden" id="_wpnonce_newsletter" name="_wpnonce_newsletter" value="968449a3a2" /><input type="hidden" name="_wp_http_referer" value="/wp-admin/admin-ajax.php" /><input type="hidden" name="action" value="content_form_submit" /><input type="hidden" name="form-type" value="newsletter" /><input type="hidden" name="form-builder" value="elementor" /><input type="hidden" name="post-id" value="12" /><input type="hidden" name="form-id" value="442651e0" />
         <fieldset>
