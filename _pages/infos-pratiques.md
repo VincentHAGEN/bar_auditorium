@@ -11,11 +11,11 @@ post_date: 2019-02-15 09:15:28
 ---
 <button id="elementor-menu-toggle"></button>
 				<nav itemtype="http://schema.org/SiteNavigationElement" itemscope="itemscope" id="elementor-navigation" role="navigation" aria-label="Elementor Menu">				
-				<ul id="elementor-navmenu"><li id="menu-item-67"><a href="https://bar-auditorium.fr/">Acceuil</a></li>
-<li id="menu-item-101"><a href="https://bar-auditorium.fr/actualites/">Actualités</a></li>
-<li id="menu-item-241"><a href="https://bar-auditorium.fr/programmes/artistes/">Programme</a></li>
-<li id="menu-item-17"><a href="https://bar-auditorium.fr/infos-pratiques/">Infos Pratiques</a></li>
-<li id="menu-item-16"><a href="https://bar-auditorium.fr/contact/">Contact</a></li>
+				<ul id="elementor-navmenu"><li><a href="https://bar-auditorium.fr/">Acceuil</a></li>
+<li><a href="https://bar-auditorium.fr/actualites/">Actualités</a></li>
+<li><a href="https://bar-auditorium.fr/programmes/artistes/">Programme</a></li>
+<li><a href="https://bar-auditorium.fr/infos-pratiques/">Infos Pratiques</a></li>
+<li><a href="https://bar-auditorium.fr/contact/">Contact</a></li>
 </ul>		
 								</nav>
 			<h1>INFOS PRATIQUES</h1>		
@@ -31,7 +31,7 @@ post_date: 2019-02-15 09:15:28
 					</form>
 					Search:
 				<h4>VENIR</h4>
-		<p>Tout ce qu’il vous faut savoir pour nous rejoindre dans les meilleurs conditions, quelque soit votre moyen de locomotion. Vous n’a plus d’excuses !</p>		
+		<p>Tout ce qu’il vous faut savoir pour nous rejoindre dans les meilleurs conditions, quelque soit votre moyen de locomotion. Vous n’avez plus d’excuses !</p>		
 												<a href="">Autocar</a>
 					Cliquez sur le bouton modifier pour changer ce texte. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
 												<a href="">Avion</a>
@@ -45,6 +45,26 @@ post_date: 2019-02-15 09:15:28
 												<a href="">Vélo</a>
 					Contenu d’accordéon
 												<a href="">Voiture ou moto</a>
+					Contenu d’accordéon
+				<h4>SUR PLACE</h4>
+		<p>Toutes les infos sur les infrastructures et services proposés pour vous assurer un bon moment. Ne mettez pas un pied en terre inconnue !</p>		
+												<a href="">Horaires d'ouverture</a>
+					Cliquez sur le bouton modifier pour changer ce texte. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+												<a href="">Argent</a>
+					Cliquez sur le bouton modifier pour changer ce texte. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+												<a href="">Nourriture et boissons</a>
+					Contenu d’accordéon
+												<a href="">Toilettes</a>
+					Contenu d’accordéon
+												<a href="">GSM et internet</a>
+					Contenu d’accordéon
+												<a href="">Casiers</a>
+					Contenu d’accordéon
+												<a href="">Info et objets trouvés</a>
+					Contenu d’accordéon
+												<a href="">Tabac, alcool et drogue</a>
+					Contenu d’accordéon
+												<a href="">Autres infos</a>
 					Contenu d’accordéon
 			<h4>NEWSLETTER</h4>		
 			<form action="https://bar-auditorium.fr/wp-admin/admin-post.php" method="post" name="content-form-442651e0" id="content-form-442651e0"><input type="hidden" id="_wpnonce_newsletter" name="_wpnonce_newsletter" value="968449a3a2" /><input type="hidden" name="_wp_http_referer" value="/wp-admin/admin-ajax.php" /><input type="hidden" name="action" value="content_form_submit" /><input type="hidden" name="form-type" value="newsletter" /><input type="hidden" name="form-builder" value="elementor" /><input type="hidden" name="post-id" value="12" /><input type="hidden" name="form-id" value="442651e0" />
@@ -78,10 +98,10 @@ post_date: 2019-02-15 09:15:28
 				</a>
 						<button id="elementor-menu-toggle"></button>
 				<nav itemtype="http://schema.org/SiteNavigationElement" itemscope="itemscope" id="elementor-navigation" role="navigation" aria-label="Elementor Menu">				
-				<ul id="elementor-navmenu"><li id="menu-item-104"><a href="https://bar-auditorium.fr/sponsors/">Sponsors</a></li>
-<li id="menu-item-105"><a href="https://bar-auditorium.fr/contact/">Contact</a></li>
-<li id="menu-item-103"><a href="https://bar-auditorium.fr/conditions-generales-de-ventes/">Conditions générales de ventes</a></li>
-<li id="menu-item-102"><a href="https://bar-auditorium.fr/mentions-legales/">Mentions légales</a></li>
+				<ul id="elementor-navmenu"><li><a href="https://bar-auditorium.fr/sponsors/">Sponsors</a></li>
+<li><a href="https://bar-auditorium.fr/contact/">Contact</a></li>
+<li><a href="https://bar-auditorium.fr/conditions-generales-de-ventes/">Conditions générales de ventes</a></li>
+<li><a href="https://bar-auditorium.fr/mentions-legales/">Mentions légales</a></li>
 </ul>		
 								</nav>
 		<nav itemtype="http://schema.org/SiteNavigationElement" itemscope="itemscope" id="cbp-hsmenu-wrapper">
