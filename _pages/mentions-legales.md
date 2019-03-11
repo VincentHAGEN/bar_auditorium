@@ -10,9 +10,7 @@ published: true
 post_date: 2019-02-22 08:59:09
 ---
 <!-- wp:paragraph -->
-<p>
-
-Merci de lire attentivement les présentes modalités d'utilisation du présent site avant de le parcourir. En vous connectant sur ce site, vous acceptez sans réserve les présentes modalités.</p>
+<p>Merci de lire attentivement les présentes modalités d'utilisation du présent site avant de le parcourir. En vous connectant sur ce site, vous acceptez sans réserve les présentes modalités.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
@@ -20,7 +18,7 @@ Merci de lire attentivement les présentes modalités d'utilisation du présent 
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p><font color="#191e23"><span style="background-color: rgb(232, 234, 235);"><b>Bar Auditorium</b></span></font><br>49 boulevard Antoine Gautier<br>Poitiers<br>France<br>Tél. : + 33 (0)6 62 79 25 55<br>Fax : + 33 (0)5 40 00 02 66<br><a href="https://www.bar-auditorium.fr">https://www.bar-auditorium.fr</a><br><br>Natural-net est une EURL au capital de 3500€<br>RCS B 497 553 71 - Siret : 49755371900020 - APE : 6201Z<br>N° déclaration CNIL : 1522193</p>
+<p><font color="#191e23"><span style="background-color: rgb(232, 234, 235);"><b>Bar Auditorium</b></span></font><br>49 boulevard Antoine Gautier<br>Poitiers<br>France<br>Tél. :&nbsp;+ 33 (0)6 62 79 25 55<br>Fax :&nbsp;+ 33 (0)5 40 00 02 66<br><a href="https://www.bar-auditorium.fr">https://www.bar-auditorium.fr</a><br><br>Natural-net est une EURL au capital de 3500€<br>RCS B 497 553 71 - Siret : 49755371900020 - APE : 6201Z<br>N° déclaration CNIL :&nbsp;1522193</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
@@ -36,7 +34,7 @@ Merci de lire attentivement les présentes modalités d'utilisation du présent 
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p><br><strong>Bar Auditorium</strong><br>49 boulevard Antoine Gautier<br>Poitiers<br>France<br>Tél. : + 33 (0)6 62 79 25 55<br>Fax : + 33 (0)5 40 00 02 66<br><a href="http://www.bar-auditorium.fr">http://www.bar-auditorium.fr</a></p>
+<p><br><strong>Bar Auditorium</strong><br>49 boulevard Antoine Gautier<br>Poitiers<br>France<br>Tél. :&nbsp;+ 33 (0)6 62 79 25 55<br>Fax :&nbsp;+ 33 (0)5 40 00 02 66<br><a href="http://www.bar-auditorium.fr">http://www.bar-auditorium.fr</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
@@ -80,7 +78,7 @@ Merci de lire attentivement les présentes modalités d'utilisation du présent 
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>En application de cette loi, les internautes disposent d’un droit d’accès, de rectification, de modification et de suppression concernant les données qui les concernent personnellement. Ce droit peut être exercé par voie postale auprès de Natural-net 49 Boulevard Antoine Gautier 33000 Bordeaux ou par voie électronique à l’adresse email suivante : <a href="contact@bar-auditorium.fr">contact@bar-auditorium.fr</a>.<br>Les informations personnelles collectées ne sont en aucun cas confiées à des tiers hormis pour l’éventuelle bonne exécution de la prestation commandée par l’internaute.</p>
+<p>En application de cette loi, les internautes disposent d’un droit d’accès, de rectification, de modification et de suppression concernant les données qui les concernent personnellement. Ce droit peut être exercé par voie postale auprès de Natural-net 49 Boulevard Antoine Gautier 33000 Bordeaux ou par voie électronique à l’adresse email suivante :&nbsp;<a href="contact@bar-auditorium.fr">contact@bar-auditorium.fr</a>.<br>Les informations personnelles collectées ne sont en aucun cas confiées à des tiers hormis pour l’éventuelle bonne exécution de la prestation commandée par l’internaute.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
@@ -96,7 +94,7 @@ Merci de lire attentivement les présentes modalités d'utilisation du présent 
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Tout le contenu du présent site, incluant, de façon non limitative, les graphismes, images, textes, vidéos, animations, sons, logos, gifs et icônes ainsi que leur mise en forme sont la propriété exclusive de la société Natural-net à l'exception des marques, logos ou contenus appartenant à d'autres sociétés partenaires ou auteurs.<br>Toute reproduction, distribution, modification, adaptation, retransmission ou publication, même partielle, de ces différents éléments est strictement interdite sans l'accord exprès par écrit de Natural-net. Cette représentation ou reproduction, par quelque procédé que ce soit, constitue une contrefaçon sanctionnée par les articles L.3335-2 et suivants du Code de la propriété intellectuelle. Le non-respect de cette interdiction constitue une contrefaçon pouvant engager la responsabilité civile et pénale du contrefacteur. En outre, les propriétaires des Contenus copiés pourraient intenter une action en justice à votre encontre.<br><br>Natural-net est identiquement propriétaire des "droits des producteurs de bases de données" visés au Livre III, Titre IV, du Code de la Propriété Intellectuelle (loi n° 98-536 du 1er juillet 1998) relative aux droits d'auteur et aux bases de données. <br><br>Les utilisateurs et visiteurs du site internet peuvent mettre en place un hyperlien en direction de ce site, mais uniquement en direction de la page d’accueil, accessible à l’URL suivante : www.site-internet-qualite.fr, à condition que ce lien s’ouvre dans une nouvelle fenêtre. En particulier un lien vers une sous page (« lien profond ») est interdit, ainsi que l’ouverture du présent site au sein d’un cadre (« framing »), sauf l'autorisation expresse et préalable de Natural-net.<br><br>Pour toute demande d'autorisation ou d'information, veuillez nous contacter par email : <a href="mailto:%7BSOCIETE.contact_email%7D">contact@bar-auditorium.f</a>r. Des conditions spécifiques sont prévues pour la presse.</p>
+<p>Tout le contenu du présent site, incluant, de façon non limitative, les graphismes, images, textes, vidéos, animations, sons, logos, gifs et icônes ainsi que leur mise en forme sont la propriété exclusive de la société Natural-net à l'exception des marques, logos ou contenus appartenant à d'autres sociétés partenaires ou auteurs.<br>Toute reproduction, distribution, modification, adaptation, retransmission ou publication, même partielle, de ces différents éléments est strictement interdite sans l'accord exprès par écrit de Natural-net. Cette représentation ou reproduction, par quelque procédé que ce soit, constitue une contrefaçon sanctionnée par les articles L.3335-2 et suivants du Code de la propriété intellectuelle. Le non-respect de cette interdiction constitue une contrefaçon pouvant engager la responsabilité civile et pénale du contrefacteur. En outre, les propriétaires des Contenus copiés pourraient intenter une action en justice à votre encontre.<br><br>Natural-net est identiquement propriétaire des "droits des producteurs de bases de données" visés au Livre III, Titre IV, du Code de la Propriété Intellectuelle (loi n° 98-536 du 1er juillet 1998) relative aux droits d'auteur et aux bases de données.&nbsp;<br><br>Les utilisateurs et visiteurs du site internet peuvent mettre en place un hyperlien en direction de ce site, mais uniquement en direction de la page d’accueil, accessible à l’URL suivante : www.site-internet-qualite.fr, à condition que ce lien s’ouvre dans une nouvelle fenêtre. En particulier un lien vers une sous page (« lien profond ») est interdit, ainsi que l’ouverture du présent site au sein d’un cadre (« framing »), sauf l'autorisation expresse et préalable de Natural-net.<br><br>Pour toute demande d'autorisation ou d'information, veuillez nous contacter par email :&nbsp;<a href="mailto:%7BSOCIETE.contact_email%7D">contact@bar-auditorium.f</a>r. Des conditions spécifiques sont prévues pour la presse.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -188,5 +186,5 @@ Merci de lire attentivement les présentes modalités d'utilisation du présent 
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Natural-net est à votre disposition pour tous vos commentaires ou suggestions. Vous pouvez nous écrire en français par courrier électronique à : contact@bar-auditorium.fr. </p>
+<p>Natural-net est à votre disposition pour tous vos commentaires ou suggestions. Vous pouvez nous écrire en français par courrier électronique à :&nbsp;contact@bar-auditorium.fr. </p>
 <!-- /wp:paragraph -->
