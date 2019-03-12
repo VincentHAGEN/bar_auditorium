@@ -74,7 +74,7 @@ post_date: 2019-02-15 09:15:28
 					Cliquez sur le bouton modifier pour changer ce texte. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
 												<a href="">Se loger autrement</a>
 					Contenu d’accordéon
-				<h4>This is an icon box</h4>
+				<h4>Accès handicapés</h4>
 		<p>La musique met un point d’honneur à rendre son accès possible à tous.</p>		
 												<a href="">Entrée</a>
 					Cliquez sur le bouton modifier pour changer ce texte. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
