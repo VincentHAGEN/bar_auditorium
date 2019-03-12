@@ -75,6 +75,21 @@ post_date: 2019-02-15 09:15:28
 												<a href="">Se loger autrement</a>
 					Contenu d’accordéon
 				<h4>This is an icon box</h4>
+		<p>La musique met un point d’honneur à rendre son accès possible à tous.</p>		
+												<a href="">Entrée</a>
+					Cliquez sur le bouton modifier pour changer ce texte. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+												<a href="">Plateformes</a>
+					Cliquez sur le bouton modifier pour changer ce texte. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+												<a href="">Soins</a>
+					Contenu d’accordéon
+												<a href="">Toilettes</a>
+					Contenu d’accordéon
+												<a href="">Visite du site</a>
+					Contenu d’accordéon
+												<a href="">Boucles magnétiques</a>
+					Contenu d’accordéon
+												<a href="">Recharges pour fauteuil</a>
+					Contenu d’accordéon
 			<h4>NEWSLETTER</h4>		
 			<form action="https://bar-auditorium.fr/wp-admin/admin-post.php" method="post" name="content-form-442651e0" id="content-form-442651e0"><input type="hidden" id="_wpnonce_newsletter" name="_wpnonce_newsletter" value="58bb76d676" /><input type="hidden" name="_wp_http_referer" value="/wp-admin/admin-ajax.php" /><input type="hidden" name="action" value="content_form_submit" /><input type="hidden" name="form-type" value="newsletter" /><input type="hidden" name="form-builder" value="elementor" /><input type="hidden" name="post-id" value="12" /><input type="hidden" name="form-id" value="442651e0" />
         <fieldset>
