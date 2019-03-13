@@ -90,5 +90,3 @@ post_date: 2019-02-15 09:16:02
 <li><a href="https://bar-auditorium.fr/mentions-legales/">Mentions légales</a></li>
 </ul>			
 		</nav>
-											<a href="https://www.bar-auditorium.fr/#main-menu" data-elementor-open-lightbox="">
-							<img width="48" height="48" src="https://bar-auditorium.fr/wp-content/uploads/2019/02/paper-fab-arrow-forward.png" alt="bouton-retour-haut-page" />								</a>
