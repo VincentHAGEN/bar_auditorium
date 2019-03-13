@@ -55,7 +55,7 @@ post_date: 2019-02-20 14:14:37
 				<a href="https://bar-auditorium.fr/halsey-bad-at-love/"
 				   title="Voir plus">Voir plus</a>
 			<!-- .obfx-grid-col-content --></article><!-- .obfx-grid-container --><!-- .obfx-grid -->		
-			<a href="#" role="button">
+			<a href="https://bar-auditorium.fr/actualites/" role="button">
 						TOUS LES ACTUS
 					</a>
 			<h4>NEWSLETTER</h4>		
