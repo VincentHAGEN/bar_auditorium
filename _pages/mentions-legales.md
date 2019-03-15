@@ -12,8 +12,8 @@ post_date: 2019-02-22 08:59:09
 <button id="elementor-menu-toggle"></button>
 				<nav itemtype="http://schema.org/SiteNavigationElement" itemscope="itemscope" id="elementor-navigation" role="navigation" aria-label="Elementor Menu">				
 				<ul id="elementor-navmenu"><li><a href="https://bar-auditorium.fr/">Accueil</a></li>
-<li><a href="https://bar-auditorium.fr/actualites/">Actualités</a></li>
-<li><a href="https://bar-auditorium.fr/programmes/artistes/">Programme</a></li>
+<li><a href="https://bar-auditorium.fr/actualites-bar-auditorium/">Actualités</a></li>
+<li><a href="https://bar-auditorium.fr/artistes/">Programme</a></li>
 <li><a href="https://bar-auditorium.fr/infos-pratiques/">Infos Pratiques</a></li>
 <li><a href="https://bar-auditorium.fr/contact/">Contact</a></li>
 </ul>		
@@ -24,7 +24,8 @@ post_date: 2019-02-22 08:59:09
 <p><!-- /wp:paragraph --> <!-- wp:heading {"level":3} --></p>
 <h3>Editeur du site</h3>
 <p><!-- /wp:heading --> <!-- wp:paragraph --></p>
-<p><b>Bar Auditorium</b><br />49 boulevard Antoine Gautier<br />Poitiers<br />France<br />Tél. : + 33 (0)6 62 79 25 55<br />Fax : + 33 (0)5 40 00 02 66<br /><a href="https://www.bar-auditorium.fr">https://www.bar-auditorium.fr</a><br /><br />Natural-net est une EURL au capital de 3500€<br />RCS B 497 553 71 - Siret : 49755371900020 - APE : 6201Z<br />N° déclaration CNIL : 1522193</p>
+<p><b>Bar Auditorium</b><br />49 boulevard Antoine Gautier<br />Poitiers<br />France<br />Tél. : + 33 (0)6 62 79 25 55<br />Fax : + 33 (0)5 40 00 02 66<br /><a href="https://www.bar-auditorium.fr">https://www.bar-auditorium.fr</a></p>
+<p>Natural-net est une EURL au capital de 3500€<br />RCS B 497 553 71 - Siret : 49755371900020 - APE : 6201Z<br />N° déclaration CNIL : 1522193</p>
 <p><!-- /wp:paragraph --> <!-- wp:heading {"level":3} --></p>
 <h3>Conditions d'utilisation</h3>
 <p><!-- /wp:heading --> <!-- wp:paragraph --></p>
@@ -32,7 +33,7 @@ post_date: 2019-02-22 08:59:09
 <p><!-- /wp:paragraph --> <!-- wp:heading {"level":3} --></p>
 <h3>Responsable éditorial</h3>
 <p><!-- /wp:heading --> <!-- wp:paragraph --></p>
-<p><br /><strong>Bar Auditorium</strong><br />49 boulevard Antoine Gautier<br />Poitiers<br />France<br />Tél. : + 33 (0)6 62 79 25 55<br />Fax : + 33 (0)5 40 00 02 66<br /><a href="http://www.bar-auditorium.fr">http://www.bar-auditorium.fr</a></p>
+<p><strong>Bar Auditorium</strong><br />49 boulevard Antoine Gautier<br />Poitiers<br />France<br />Tél. : + 33 (0)6 62 79 25 55<br />Fax : + 33 (0)5 40 00 02 66<br /><a href="http://www.bar-auditorium.fr">http://www.bar-auditorium.fr</a></p>
 <p><!-- /wp:paragraph --> <!-- wp:heading {"level":3} --></p>
 <h3>Limitation de responsabilité</h3>
 <p><!-- /wp:heading --> <!-- wp:paragraph --></p>
@@ -62,15 +63,8 @@ post_date: 2019-02-22 08:59:09
 <p><!-- /wp:paragraph --> <!-- wp:heading {"level":3} --></p>
 <h3>Propriété intellectuelle</h3>
 <p><!-- /wp:heading --> <!-- wp:paragraph --></p>
-<p>Tout le contenu du présent site, incluant, de façon non limitative, les graphismes, images, textes, vidéos, animations, sons, logos, gifs et icônes ainsi que leur mise en forme sont la propriété exclusive de la société Natural-net à l'exception des marques, logos ou contenus appartenant à d'autres sociétés partenaires ou auteurs.<br />Toute reproduction, distribution, modification, adaptation, retransmission ou publication, même partielle, de ces différents éléments est strictement interdite sans l'accord exprès par écrit de Natural-net. Cette représentation ou reproduction, par quelque procédé que ce soit, constitue une contrefaçon sanctionnée par les articles L.3335-2 et suivants du Code de la propriété intellectuelle. Le non-respect de cette interdiction constitue une contrefaçon pouvant engager la responsabilité civile et pénale du contrefacteur. En outre, les propriétaires des Contenus copiés pourraient intenter une action en justice à votre encontre.<br /><br />Natural-net est identiquement propriétaire des "droits des producteurs de bases de données" visés au Livre III, Titre IV, du Code de la Propriété Intellectuelle (loi n° 98-536 du 1er juillet 1998) relative aux droits d'auteur et aux bases de données. <br /><br />Les utilisateurs et visiteurs du site internet peuvent mettre en place un hyperlien en direction de ce site, mais uniquement en direction de la page d’accueil, accessible à l’URL suivante : www.site-internet-qualite.fr, à condition que ce lien s’ouvre dans une nouvelle fenêtre. En particulier un lien vers une sous page (« lien profond ») est interdit, ainsi que l’ouverture du présent site au sein d’un cadre (« framing »), sauf l'autorisation expresse et préalable de Natural-net.<br /><br />Pour toute demande d'autorisation ou d'information, veuillez nous contacter par email : <a href="mailto:%7BSOCIETE.contact_email%7D">contact@bar-auditorium.f</a>r. Des conditions spécifiques sont prévues pour la presse.</p>
-<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>
-<p>Par ailleurs, la mise en forme de ce site a nécessité le recours à des sources externes dont nous avons acquis les droits ou dont les droits d'utilisation sont ouverts : Pioneer - Multi-Purpose HTML 5 / CSS 3 Corporate Template. </p>
-<p><!-- /wp:paragraph --> <!-- wp:list --></p>
-<ul>
-<li>Créé le : 24/05/2016</li>
-<li>Auteur : <a href="http://themeforest.net/user/Dankov" target="_blank" rel="noreferrer noopener">Dankov</a></li>
-<li>E-mail de l'auteur : <a href="mailto:dankov.theme@gmail.com">dankov.theme@gmail.com</a></li>
-</ul>
+<p>Tout le contenu du présent site, incluant, de façon non limitative, les graphismes, images, textes, vidéos, animations, sons, logos, gifs et icônes ainsi que leur mise en forme sont la propriété exclusive de la société Natural-net à l'exception des marques, logos ou contenus appartenant à d'autres sociétés partenaires ou auteurs.<br />Toute reproduction, distribution, modification, adaptation, retransmission ou publication, même partielle, de ces différents éléments est strictement interdite sans l'accord exprès par écrit de Natural-net. Cette représentation ou reproduction, par quelque procédé que ce soit, constitue une contrefaçon sanctionnée par les articles L.3335-2 et suivants du Code de la propriété intellectuelle. Le non-respect de cette interdiction constitue une contrefaçon pouvant engager la responsabilité civile et pénale du contrefacteur. En outre, les propriétaires des Contenus copiés pourraient intenter une action en justice à votre encontre.</p>
+<p>Pour toute demande d'autorisation ou d'information, veuillez nous contacter par email : <a href="mailto:%7BSOCIETE.contact_email%7D">contact@bar-auditorium.f</a>r. Des conditions spécifiques sont prévues pour la presse.</p>
 <p><!-- /wp:list --> <!-- wp:heading {"level":3} --></p>
 <h3>Hébergeur</h3>
 <p><!-- /wp:heading --> <!-- wp:paragraph --></p>
@@ -115,7 +109,7 @@ post_date: 2019-02-22 08:59:09
 <p>Natural-net est à votre disposition pour tous vos commentaires ou suggestions. Vous pouvez nous écrire en français par courrier électronique à : contact@bar-auditorium.fr.</p>
 <p><!-- /wp:paragraph --></p>		
 			<h4>NEWSLETTER</h4>		
-			<form action="https://bar-auditorium.fr/wp-admin/admin-post.php" method="post" name="content-form-2083757d" id="content-form-2083757d"><input type="hidden" id="_wpnonce_newsletter" name="_wpnonce_newsletter" value="2e6fd55cef" /><input type="hidden" name="_wp_http_referer" value="/wp-admin/admin-ajax.php" /><input type="hidden" name="action" value="content_form_submit" /><input type="hidden" name="form-type" value="newsletter" /><input type="hidden" name="form-builder" value="elementor" /><input type="hidden" name="post-id" value="97" /><input type="hidden" name="form-id" value="2083757d" />
+			<form action="https://bar-auditorium.fr/wp-admin/admin-post.php" method="post" name="content-form-2083757d" id="content-form-2083757d"><input type="hidden" id="_wpnonce_newsletter" name="_wpnonce_newsletter" value="b644aaaa33" /><input type="hidden" name="_wp_http_referer" value="/wp-admin/admin-ajax.php" /><input type="hidden" name="action" value="content_form_submit" /><input type="hidden" name="form-type" value="newsletter" /><input type="hidden" name="form-builder" value="elementor" /><input type="hidden" name="post-id" value="97" /><input type="hidden" name="form-id" value="2083757d" />
         <fieldset>
             <label for="data[2083757d][email]"
 				>
