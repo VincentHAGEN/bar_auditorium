@@ -10,5 +10,5 @@ published: true
 post_date: 2019-02-20 14:56:27
 ---
 <!-- wp:paragraph -->
-<p>Halsey poursuit la promotion de son deuxième album "Hopeless Fountain Kingdom". Après "Now or Never", la chanteuse américaine...</p>
+<p>Halsey poursuit la promotion de son deuxième album. La chanteuse américaine viendra sur scène pour vous l’interpréter.</p>
 <!-- /wp:paragraph -->
