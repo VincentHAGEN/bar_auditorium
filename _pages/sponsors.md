@@ -11,17 +11,16 @@ post_date: 2019-02-22 08:48:46
 <button id="elementor-menu-toggle"></button>
 				<nav itemtype="http://schema.org/SiteNavigationElement" itemscope="itemscope" id="elementor-navigation" role="navigation" aria-label="Elementor Menu">				
 				<ul id="elementor-navmenu"><li><a href="https://bar-auditorium.fr/">Accueil</a></li>
-<li><a href="https://bar-auditorium.fr/actualites/">Actualités</a></li>
-<li><a href="https://bar-auditorium.fr/programmes/artistes/">Programme</a></li>
+<li><a href="https://bar-auditorium.fr/actualites-bar-auditorium/">Actualités</a></li>
+<li><a href="https://bar-auditorium.fr/artistes/">Programme</a></li>
 <li><a href="https://bar-auditorium.fr/infos-pratiques/">Infos Pratiques</a></li>
 <li><a href="https://bar-auditorium.fr/contact/">Contact</a></li>
 </ul>		
 								</nav>
 			<h1>SPONSORS</h1>		
-		<p>Acceuil &gt;&gt; Sponsors</p>
-<p>Ici vous trouverez très prochainement nos sponsors.</p>
+		<p>Acceuil &gt;&gt; Sponsors</p><p>Découvrez très prochainement nos sponsors !</p>		
 			<h4>NEWSLETTER</h4>		
-			<form action="https://bar-auditorium.fr/wp-admin/admin-post.php" method="post" name="content-form-6c7d1cfe" id="content-form-6c7d1cfe"><input type="hidden" id="_wpnonce_newsletter" name="_wpnonce_newsletter" value="2ffb1925aa" /><input type="hidden" name="_wp_http_referer" value="/wp-admin/admin-ajax.php" /><input type="hidden" name="action" value="content_form_submit" /><input type="hidden" name="form-type" value="newsletter" /><input type="hidden" name="form-builder" value="elementor" /><input type="hidden" name="post-id" value="93" /><input type="hidden" name="form-id" value="6c7d1cfe" />
+			<form action="https://bar-auditorium.fr/wp-admin/admin-post.php" method="post" name="content-form-6c7d1cfe" id="content-form-6c7d1cfe"><input type="hidden" id="_wpnonce_newsletter" name="_wpnonce_newsletter" value="ab45ca2284" /><input type="hidden" name="_wp_http_referer" value="/wp-admin/admin-ajax.php" /><input type="hidden" name="action" value="content_form_submit" /><input type="hidden" name="form-type" value="newsletter" /><input type="hidden" name="form-builder" value="elementor" /><input type="hidden" name="post-id" value="93" /><input type="hidden" name="form-id" value="6c7d1cfe" />
         <fieldset>
             <label for="data[6c7d1cfe][email]"
 				>
