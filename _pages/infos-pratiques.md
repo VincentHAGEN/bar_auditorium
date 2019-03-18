@@ -21,7 +21,7 @@ post_date: 2019-02-15 09:15:28
 			<h1>INFOS PRATIQUES</h1>		
 		<p>Acceuil &gt;&gt; Infos Pratiques</p>		
 			<h2>GUIDES</h2>		
-		<p><strong><a href="https://bar-auditorium.fr/infos-pratiques/#venir">Venir</a> | <a href="https://bar-auditorium.fr/infos-pratiques/#sur-place">Sur Place</a> | <a href="https://bar-auditorium.fr/infos-pratiques/#dormir">Dormir</a> | <a href="https://bar-auditorium.fr/infos-pratiques/#acces-handicapes">Accès Handicapés</a> | <a href="https://bar-auditorium.fr/infos-pratiques/securite">Sécurité</a> | <a href="https://bar-auditorium.fr/infos-pratiques/#eco-responsable">éco-responsable</a></strong></p><p>Vous trouverez ici l'ensemble des informations nécessaires pour passer un moment inoubliables.</p>		
+		<p><strong><a href="https://bar-auditorium.fr/infos-pratiques/#venir">Venir</a> | <a href="https://bar-auditorium.fr/infos-pratiques/#sur-place">Sur Place</a> | <a href="https://bar-auditorium.fr/infos-pratiques/#dormir">Dormir</a> | <a href="https://bar-auditorium.fr/infos-pratiques/#acces-handicapes">Accès Handicapés</a> | <a href="https://bar-auditorium.fr/infos-pratiques/#securite">Sécurité</a> | <a href="https://bar-auditorium.fr/infos-pratiques/#eco-responsable">éco-responsable</a></strong></p><p>Vous trouverez ici l'ensemble des informations nécessaires pour passer un moment inoubliables.</p>		
 					<form method="get" action="https://bar-auditorium.fr/">
 						<label>
 							Search:
