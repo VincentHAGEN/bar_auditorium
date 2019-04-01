@@ -18,7 +18,7 @@ post_date: 2019-02-26 14:58:07
 </ul>		
 								</nav>
 			<h2>PROGRAMME</h2>		
-		<p>Acceuil &gt;&gt; Programme</p><p><a href="https://bar-auditorium.fr/artistes/">ARTISTES</a></p><p>HORAIRES</p>		
+		<p>Acceuil &gt;&gt; Programme</p><p><a href="https://bar-auditorium.fr/artistes/">ARTISTES</a></p><p><a href="https://bar-auditorium.fr/horaires/">HORAIRES</a></p>		
 			<h4>NEWSLETTER</h4>		
 			<form action="https://bar-auditorium.fr/wp-admin/admin-post.php" method="post" name="content-form-1d6da387" id="content-form-1d6da387"><input type="hidden" id="_wpnonce_newsletter" name="_wpnonce_newsletter" value="db13efafd0" /><input type="hidden" name="_wp_http_referer" value="/wp-admin/admin-ajax.php" /><input type="hidden" name="action" value="content_form_submit" /><input type="hidden" name="form-type" value="newsletter" /><input type="hidden" name="form-builder" value="elementor" /><input type="hidden" name="post-id" value="169" /><input type="hidden" name="form-id" value="1d6da387" />
         <fieldset>
