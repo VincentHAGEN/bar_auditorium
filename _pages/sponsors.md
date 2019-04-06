@@ -20,7 +20,7 @@ post_date: 2019-02-22 08:48:46
 			<h2>SPONSORS</h2>		
 		<p>Acceuil &gt;&gt; Sponsors</p><p>Découvrez très prochainement nos sponsors !</p>		
 			<h4>NEWSLETTER</h4>		
-			<form action="https://bar-auditorium.fr/wp-admin/admin-post.php" method="post" name="content-form-6c7d1cfe" id="content-form-6c7d1cfe"><input type="hidden" id="_wpnonce_newsletter" name="_wpnonce_newsletter" value="d300c34c78" /><input type="hidden" name="_wp_http_referer" value="/wp-admin/admin-ajax.php" /><input type="hidden" name="action" value="content_form_submit" /><input type="hidden" name="form-type" value="newsletter" /><input type="hidden" name="form-builder" value="elementor" /><input type="hidden" name="post-id" value="93" /><input type="hidden" name="form-id" value="6c7d1cfe" />
+			<form action="https://bar-auditorium.fr/wp-admin/admin-post.php" method="post" name="content-form-6c7d1cfe" id="content-form-6c7d1cfe"><input type="hidden" id="_wpnonce_newsletter" name="_wpnonce_newsletter" value="a6b1f0ef0c" /><input type="hidden" name="_wp_http_referer" value="/wp-admin/admin-ajax.php" /><input type="hidden" name="action" value="content_form_submit" /><input type="hidden" name="form-type" value="newsletter" /><input type="hidden" name="form-builder" value="elementor" /><input type="hidden" name="post-id" value="93" /><input type="hidden" name="form-id" value="6c7d1cfe" />
         <fieldset>
             <label for="data[6c7d1cfe][email]"
 				>
@@ -34,7 +34,7 @@ post_date: 2019-02-22 08:48:46
         </fieldset>
 		</form>		
 			<h4>SUIVEZ-NOUS</h4>		
-							<a href="" target="_blank" rel="noopener noreferrer">
+							<a href="https://www.facebook.com/barauditorium/" target="_blank" rel="noopener noreferrer">
 					Facebook
 				</a>
 							<a href="" target="_blank" rel="noopener noreferrer">
