@@ -109,7 +109,7 @@ post_date: 2019-02-22 08:59:09
 <p>Natural-net est à votre disposition pour tous vos commentaires ou suggestions. Vous pouvez nous écrire en français par courrier électronique à : contact@bar-auditorium.fr.</p>
 <p><!-- /wp:paragraph --></p>		
 			<h4>NEWSLETTER</h4>		
-			<form action="https://bar-auditorium.fr/wp-admin/admin-post.php" method="post" name="content-form-2083757d" id="content-form-2083757d"><input type="hidden" id="_wpnonce_newsletter" name="_wpnonce_newsletter" value="ceb1f7fe32" /><input type="hidden" name="_wp_http_referer" value="/wp-admin/admin-ajax.php" /><input type="hidden" name="action" value="content_form_submit" /><input type="hidden" name="form-type" value="newsletter" /><input type="hidden" name="form-builder" value="elementor" /><input type="hidden" name="post-id" value="97" /><input type="hidden" name="form-id" value="2083757d" />
+			<form action="https://bar-auditorium.fr/wp-admin/admin-post.php" method="post" name="content-form-2083757d" id="content-form-2083757d"><input type="hidden" id="_wpnonce_newsletter" name="_wpnonce_newsletter" value="d65cf66638" /><input type="hidden" name="_wp_http_referer" value="/wp-admin/admin-ajax.php" /><input type="hidden" name="action" value="content_form_submit" /><input type="hidden" name="form-type" value="newsletter" /><input type="hidden" name="form-builder" value="elementor" /><input type="hidden" name="post-id" value="97" /><input type="hidden" name="form-id" value="2083757d" />
         <fieldset>
             <label for="data[2083757d][email]"
 				>
@@ -123,7 +123,7 @@ post_date: 2019-02-22 08:59:09
         </fieldset>
 		</form>		
 			<h4>SUIVEZ-NOUS</h4>		
-							<a href="" target="_blank" rel="noopener noreferrer">
+							<a href="https://www.facebook.com/barauditorium/" target="_blank" rel="noopener noreferrer">
 					Facebook
 				</a>
 							<a href="" target="_blank" rel="noopener noreferrer">
