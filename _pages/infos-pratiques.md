@@ -125,7 +125,7 @@ post_date: 2019-02-15 09:15:28
         </fieldset>
 		</form>		
 			<h4>SUIVEZ-NOUS</h4>		
-							<a href="" target="_blank" rel="noopener noreferrer">
+							<a href="https://www.facebook.com/barauditorium/" target="_blank" rel="noopener noreferrer">
 					Facebook
 				</a>
 							<a href="" target="_blank" rel="noopener noreferrer">
