@@ -45,7 +45,7 @@ post_date: 2019-02-15 09:16:02
 			<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=1%20Boulevard%20de%20Verdun%2C%2086000%20Poitiers&amp;t=m&amp;z=15&amp;output=embed&amp;iwloc=near" aria-label="1 Boulevard de Verdun, 86000 Poitiers"></iframe>		
 		<p><strong>Coordonnée : <br /></strong>Téléphone : <a title="Appeler avec Hangouts" href="https://www.google.com/search?q=bar+auditorium+poitiers&amp;oq=bar+auditorium+poitiers&amp;aqs=chrome..69i57j69i60l2.5826j0j7&amp;sourceid=chrome&amp;ie=UTF-8#" data-number="+33549392929" data-pstn-out-call-url="" data-rtid="igwhUkM8zjZ0" data-ved="2ahUKEwjnmda91_ngAhXE1eAKHYxmD7wQkAgoADAUegQIERAD">05 49 39 29 29</a></p>		
 			<h4>NEWSLETTER</h4>		
-			<form action="https://bar-auditorium.fr/wp-admin/admin-post.php" method="post" name="content-form-7fc9acc6" id="content-form-7fc9acc6"><input type="hidden" id="_wpnonce_newsletter" name="_wpnonce_newsletter" value="12f88d7cc0" /><input type="hidden" name="_wp_http_referer" value="/wp-admin/admin-ajax.php" /><input type="hidden" name="action" value="content_form_submit" /><input type="hidden" name="form-type" value="newsletter" /><input type="hidden" name="form-builder" value="elementor" /><input type="hidden" name="post-id" value="14" /><input type="hidden" name="form-id" value="7fc9acc6" />
+			<form action="https://bar-auditorium.fr/wp-admin/admin-post.php" method="post" name="content-form-7fc9acc6" id="content-form-7fc9acc6"><input type="hidden" id="_wpnonce_newsletter" name="_wpnonce_newsletter" value="668b84da90" /><input type="hidden" name="_wp_http_referer" value="/wp-admin/admin-ajax.php" /><input type="hidden" name="action" value="content_form_submit" /><input type="hidden" name="form-type" value="newsletter" /><input type="hidden" name="form-builder" value="elementor" /><input type="hidden" name="post-id" value="14" /><input type="hidden" name="form-id" value="7fc9acc6" />
         <fieldset>
             <label for="data[7fc9acc6][email]"
 				>
@@ -59,7 +59,7 @@ post_date: 2019-02-15 09:16:02
         </fieldset>
 		</form>		
 			<h4>SUIVEZ-NOUS</h4>		
-							<a href="" target="_blank" rel="noopener noreferrer">
+							<a href="https://www.facebook.com/barauditorium/" target="_blank" rel="noopener noreferrer">
 					Facebook
 				</a>
 							<a href="" target="_blank" rel="noopener noreferrer">
