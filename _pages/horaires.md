@@ -19,14 +19,6 @@ post_date: 2019-02-26 14:59:06
 								</nav>
 			<h2>PROGRAMME</h2>		
 		<p>Accueil &gt;&gt; Programme</p><p><a href="https://bar-auditorium.fr/artistes/">ARTISTES</a></p><p><a href="https://bar-auditorium.fr/horaires/">HORAIRES</a></p>		
-					<form method="get" action="https://bar-auditorium.fr/">
-						<label>
-							Search:
-							<input type="search" placeholder="Type keyword & hit enter to search;" value="" name="s" title="Search for:">
-						</label>
-							<input type="submit" value="">
-					</form>
-					Search:
 				<article>
         <a href="https://bar-auditorium.fr/halsey-bad-at-love/" title="Halsey, &#8220;Bad At Love&#8221;">
             <time datetime="février 20, 2019">février 20, 2019</time>
