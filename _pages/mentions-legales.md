@@ -18,7 +18,7 @@ post_date: 2019-02-22 08:59:09
 <li><a href="https://bar-auditorium.fr/contact/">Contact</a></li>
 </ul>		
 								</nav>
-			<h2>MENTIONS LÉGALES</h2>		
+			<h1>MENTIONS LÉGALES</h1>		
 		<p>Accueil &gt;&gt; Mentions légales</p><p><!-- wp:paragraph --></p>
 <p>Merci de lire attentivement les présentes modalités d'utilisation du présent site avant de le parcourir. En vous connectant sur ce site, vous acceptez sans réserve les présentes modalités.</p>
 <p><!-- /wp:paragraph --> <!-- wp:heading {"level":3} --></p>
@@ -109,7 +109,7 @@ post_date: 2019-02-22 08:59:09
 <p>Natural-net est à votre disposition pour tous vos commentaires ou suggestions. Vous pouvez nous écrire en français par courrier électronique à : contact@bar-auditorium.fr.</p>
 <p><!-- /wp:paragraph --></p>		
 			<h4>NEWSLETTER</h4>		
-			<form action="https://bar-auditorium.fr/wp-admin/admin-post.php" method="post" name="content-form-2083757d" id="content-form-2083757d"><input type="hidden" id="_wpnonce_newsletter" name="_wpnonce_newsletter" value="219b297f5d" /><input type="hidden" name="_wp_http_referer" value="/wp-admin/admin-ajax.php" /><input type="hidden" name="action" value="content_form_submit" /><input type="hidden" name="form-type" value="newsletter" /><input type="hidden" name="form-builder" value="elementor" /><input type="hidden" name="post-id" value="97" /><input type="hidden" name="form-id" value="2083757d" />
+			<form action="https://bar-auditorium.fr/wp-admin/admin-post.php" method="post" name="content-form-2083757d" id="content-form-2083757d"><input type="hidden" id="_wpnonce_newsletter" name="_wpnonce_newsletter" value="2fa752a5d4" /><input type="hidden" name="_wp_http_referer" value="/wp-admin/admin-ajax.php" /><input type="hidden" name="action" value="content_form_submit" /><input type="hidden" name="form-type" value="newsletter" /><input type="hidden" name="form-builder" value="elementor" /><input type="hidden" name="post-id" value="97" /><input type="hidden" name="form-id" value="2083757d" />
         <fieldset>
             <label for="data[2083757d][email]"
 				>
