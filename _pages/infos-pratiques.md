@@ -19,7 +19,7 @@ post_date: 2019-02-15 09:15:28
 </ul>		
 								</nav>
 			<h2>INFOS PRATIQUES</h2>		
-		<p>Acceuil &gt;&gt; Infos Pratiques</p>		
+		<p>Accueil &gt;&gt; Infos Pratiques</p>		
 			<h2>GUIDES</h2>		
 		<p><strong><a style="color: #000000;" href="https://bar-auditorium.fr/infos-pratiques/#venir">Venir</a> | <a style="color: #000000;" href="https://bar-auditorium.fr/infos-pratiques/#sur-place">Sur Place</a> | <a style="color: #000000;" href="https://bar-auditorium.fr/infos-pratiques/#dormir">Dormir</a> | <a style="color: #000000;" href="https://bar-auditorium.fr/infos-pratiques/#acces-handicapes">Accès Handicapés</a> | <a style="color: #000000;" href="https://bar-auditorium.fr/infos-pratiques/#securite">Sécurité</a> | <a style="color: #000000;" href="https://bar-auditorium.fr/infos-pratiques/#eco-responsable">Eco-responsable</a></strong></p><p>Vous trouverez ici l'ensemble des informations nécessaires pour passer un moment inoubliables.</p>		
 					<form method="get" action="https://bar-auditorium.fr/">
@@ -111,7 +111,7 @@ post_date: 2019-02-15 09:15:28
 												<a href="">Préventions des risques</a>
 					Contenu d’accordéon
 			<h4>NEWSLETTER</h4>		
-			<form action="https://bar-auditorium.fr/wp-admin/admin-post.php" method="post" name="content-form-442651e0" id="content-form-442651e0"><input type="hidden" id="_wpnonce_newsletter" name="_wpnonce_newsletter" value="e89a230d43" /><input type="hidden" name="_wp_http_referer" value="/wp-admin/admin-ajax.php" /><input type="hidden" name="action" value="content_form_submit" /><input type="hidden" name="form-type" value="newsletter" /><input type="hidden" name="form-builder" value="elementor" /><input type="hidden" name="post-id" value="12" /><input type="hidden" name="form-id" value="442651e0" />
+			<form action="https://bar-auditorium.fr/wp-admin/admin-post.php" method="post" name="content-form-442651e0" id="content-form-442651e0"><input type="hidden" id="_wpnonce_newsletter" name="_wpnonce_newsletter" value="ef8433abed" /><input type="hidden" name="_wp_http_referer" value="/wp-admin/admin-ajax.php" /><input type="hidden" name="action" value="content_form_submit" /><input type="hidden" name="form-type" value="newsletter" /><input type="hidden" name="form-builder" value="elementor" /><input type="hidden" name="post-id" value="12" /><input type="hidden" name="form-id" value="442651e0" />
         <fieldset>
             <label for="data[442651e0][email]"
 				>
