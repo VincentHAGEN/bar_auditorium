@@ -22,14 +22,6 @@ post_date: 2019-02-15 09:15:28
 		<p>Accueil &gt;&gt; Infos Pratiques</p>		
 			<h2>GUIDES</h2>		
 		<p><strong><a style="color: #000000;" href="https://bar-auditorium.fr/infos-pratiques/#venir">Venir</a> | <a style="color: #000000;" href="https://bar-auditorium.fr/infos-pratiques/#sur-place">Sur Place</a> | <a style="color: #000000;" href="https://bar-auditorium.fr/infos-pratiques/#dormir">Dormir</a> | <a style="color: #000000;" href="https://bar-auditorium.fr/infos-pratiques/#acces-handicapes">Accès Handicapés</a> | <a style="color: #000000;" href="https://bar-auditorium.fr/infos-pratiques/#securite">Sécurité</a> | <a style="color: #000000;" href="https://bar-auditorium.fr/infos-pratiques/#eco-responsable">Eco-responsable</a></strong></p><p>Vous trouverez ici l'ensemble des informations nécessaires pour passer un moment inoubliables.</p>		
-					<form method="get" action="https://bar-auditorium.fr/">
-						<label>
-							Search:
-							<input type="search" placeholder="Type keyword & hit enter to search;" value="" name="s" title="Search for:">
-						</label>
-							<input type="submit" value="">
-					</form>
-					Search:
 				<h4>VENIR</h4>
 		<p>Tout ce qu’il vous faut savoir pour nous rejoindre dans les meilleurs conditions, quelque soit votre moyen de locomotion. Vous n’avez plus d’excuses !</p>		
 												<a href="">Autocar</a>
