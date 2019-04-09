@@ -18,7 +18,7 @@ post_date: 2019-02-26 14:59:06
 </ul>		
 								</nav>
 			<h2>PROGRAMME</h2>		
-		<p>Acceuil &gt;&gt; Programme</p><p><a href="https://bar-auditorium.fr/artistes/">ARTISTES</a></p><p><a href="https://bar-auditorium.fr/horaires/">HORAIRES</a></p>		
+		<p>Accueil &gt;&gt; Programme</p><p><a href="https://bar-auditorium.fr/artistes/">ARTISTES</a></p><p><a href="https://bar-auditorium.fr/horaires/">HORAIRES</a></p>		
 					<form method="get" action="https://bar-auditorium.fr/">
 						<label>
 							Search:
@@ -53,7 +53,7 @@ Le groupe de musique électropop Royksopp délivre déjà son cinquième album. 
                     </a>
 </article>		    
 			<h4>NEWSLETTER</h4>		
-			<form action="https://bar-auditorium.fr/wp-admin/admin-post.php" method="post" name="content-form-65fbfee8" id="content-form-65fbfee8"><input type="hidden" id="_wpnonce_newsletter" name="_wpnonce_newsletter" value="f2471538c3" /><input type="hidden" name="_wp_http_referer" value="/wp-admin/admin-ajax.php" /><input type="hidden" name="action" value="content_form_submit" /><input type="hidden" name="form-type" value="newsletter" /><input type="hidden" name="form-builder" value="elementor" /><input type="hidden" name="post-id" value="75" /><input type="hidden" name="form-id" value="65fbfee8" />
+			<form action="https://bar-auditorium.fr/wp-admin/admin-post.php" method="post" name="content-form-65fbfee8" id="content-form-65fbfee8"><input type="hidden" id="_wpnonce_newsletter" name="_wpnonce_newsletter" value="5c6582bd93" /><input type="hidden" name="_wp_http_referer" value="/wp-admin/admin-ajax.php" /><input type="hidden" name="action" value="content_form_submit" /><input type="hidden" name="form-type" value="newsletter" /><input type="hidden" name="form-builder" value="elementor" /><input type="hidden" name="post-id" value="75" /><input type="hidden" name="form-id" value="65fbfee8" />
         <fieldset>
             <label for="data[65fbfee8][email]"
 				>
