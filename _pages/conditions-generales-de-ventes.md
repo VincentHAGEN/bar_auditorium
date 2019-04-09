@@ -18,7 +18,7 @@ post_date: 2019-02-22 08:52:44
 <li><a href="https://bar-auditorium.fr/contact/">Contact</a></li>
 </ul>		
 								</nav>
-			<h2>CONDITIONS GÉNÉRALES DE VENTES</h2>		
+			<h1>CONDITIONS GÉNÉRALES DE VENTES</h1>		
 		<p>Accueil &gt;&gt; Conditions générales de ventes</p><p><!-- wp:paragraph --></p>
 <p>Le présent document n'a qu'une valeur indicative et ne saurait dispenser d'un conseil juridique. À ce titre, et sous réserve de respecter les mentions obligatoires légales applicables à ce type d'acte, le vendeur peut aménager librement ses conditions générales de vente en fonction de la nature de son activité.</p>
 <p><!-- /wp:paragraph --> <!-- wp:heading --></p>
@@ -92,7 +92,7 @@ post_date: 2019-02-22 08:52:44
 <p>Tout litige relatif à l'interprétation et à l'exécution des présentes conditions générales de vente est soumis au droit français.</p>
 <p><!-- /wp:paragraph --></p>		
 			<h4>NEWSLETTER</h4>		
-			<form action="https://bar-auditorium.fr/wp-admin/admin-post.php" method="post" name="content-form-7b285126" id="content-form-7b285126"><input type="hidden" id="_wpnonce_newsletter" name="_wpnonce_newsletter" value="c133d3ba34" /><input type="hidden" name="_wp_http_referer" value="/wp-admin/admin-ajax.php" /><input type="hidden" name="action" value="content_form_submit" /><input type="hidden" name="form-type" value="newsletter" /><input type="hidden" name="form-builder" value="elementor" /><input type="hidden" name="post-id" value="95" /><input type="hidden" name="form-id" value="7b285126" />
+			<form action="https://bar-auditorium.fr/wp-admin/admin-post.php" method="post" name="content-form-7b285126" id="content-form-7b285126"><input type="hidden" id="_wpnonce_newsletter" name="_wpnonce_newsletter" value="935ef0f3ce" /><input type="hidden" name="_wp_http_referer" value="/wp-admin/admin-ajax.php" /><input type="hidden" name="action" value="content_form_submit" /><input type="hidden" name="form-type" value="newsletter" /><input type="hidden" name="form-builder" value="elementor" /><input type="hidden" name="post-id" value="95" /><input type="hidden" name="form-id" value="7b285126" />
         <fieldset>
             <label for="data[7b285126][email]"
 				>
