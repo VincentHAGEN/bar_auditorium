@@ -20,12 +20,6 @@ post_date: 2019-02-26 14:59:06
 			<h1>PROGRAMME</h1>		
 		<p>Accueil &gt;&gt; Programme</p><p><a href="https://bar-auditorium.fr/artistes/">ARTISTES</a></p><p><a href="https://bar-auditorium.fr/horaires/">HORAIRES</a></p>		
 				<article>
-        <a href="https://bar-auditorium.fr/events/evenement-test/" title="Evénement Test">
-            <time datetime="15 mars 2019">15 mars 2019</time>
-                    <p>Ceci est un événement test. Il n'y a pas d'événement à venir pour le moment.</p>
-                    <h2>Evénement Test</h2>
-                    </a>
-</article><article>
         <a href="https://bar-auditorium.fr/events/royksopp/" title="ROYKSOPP">
             <time datetime="9 avril 2019">9 avril 2019</time>
                     <p>Biographie
@@ -33,9 +27,15 @@ Royksopp est un groupe de musique norvégien formé en 1998 et composé de Svein
 Depuis ses débuts en 1998, le groupe est reconnu positivement …</p>
                     <h2>ROYKSOPP</h2>
                     </a>
+</article><article>
+        <a href="https://bar-auditorium.fr/events/evenement-test/" title="Evénement Test">
+            <time datetime="15 mars 2019">15 mars 2019</time>
+                    <p>Ceci est un événement test. Il n'y a pas d'événement à venir pour le moment.</p>
+                    <h2>Evénement Test</h2>
+                    </a>
 </article>		    
 			<h4>NEWSLETTER</h4>		
-			<form action="https://bar-auditorium.fr/wp-admin/admin-post.php" method="post" name="content-form-65fbfee8" id="content-form-65fbfee8"><input type="hidden" id="_wpnonce_newsletter" name="_wpnonce_newsletter" value="494d2874aa" /><input type="hidden" name="_wp_http_referer" value="/wp-admin/admin-ajax.php" /><input type="hidden" name="action" value="content_form_submit" /><input type="hidden" name="form-type" value="newsletter" /><input type="hidden" name="form-builder" value="elementor" /><input type="hidden" name="post-id" value="446" /><input type="hidden" name="form-id" value="65fbfee8" />
+			<form action="https://bar-auditorium.fr/wp-admin/admin-post.php" method="post" name="content-form-65fbfee8" id="content-form-65fbfee8"><input type="hidden" id="_wpnonce_newsletter" name="_wpnonce_newsletter" value="bbc0b8e8ce" /><input type="hidden" name="_wp_http_referer" value="/wp-admin/admin-ajax.php" /><input type="hidden" name="action" value="content_form_submit" /><input type="hidden" name="form-type" value="newsletter" /><input type="hidden" name="form-builder" value="elementor" /><input type="hidden" name="post-id" value="337" /><input type="hidden" name="form-id" value="65fbfee8" />
         <fieldset>
             <label for="data[65fbfee8][email]"
 				>
