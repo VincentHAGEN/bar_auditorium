@@ -35,9 +35,25 @@ Ceci est un événement pour le groupe musical La Roux. Détails de l'événemen
 </p>
                     <h2>Vendredi 17 Août 2019 (19h15 &#8211; 20h45) : La Roux</h2>
                     </a>
+</article><article>
+        <a href="https://bar-auditorium.fr/vendredi-17-aout-2019-20h45-22h15-chvrches/" title="Vendredi 17 août 2019 (20h45 &#8211; 22h15) : Chvrches">
+            <time datetime="10 avril 2019">10 avril 2019</time>
+                    <p>
+Ceci est un événement pour le groupe musical Chvrches. Plus de détails à venir...
+</p>
+                    <h2>Vendredi 17 août 2019 (20h45 &#8211; 22h15) : Chvrches</h2>
+                    </a>
+</article><article>
+        <a href="https://bar-auditorium.fr/vendredi-17-aout-2019-22h30-00h00-m83/" title="Vendredi 17 août 2019 (22h30 &#8211; 00h00) :  M83">
+            <time datetime="10 avril 2019">10 avril 2019</time>
+                    <p>
+Ceci est un événement pour le groupe musical M83. Plus de détails à venir.
+</p>
+                    <h2>Vendredi 17 août 2019 (22h30 &#8211; 00h00) :  M83</h2>
+                    </a>
 </article>		    
 			<h4>NEWSLETTER</h4>		
-			<form action="https://bar-auditorium.fr/wp-admin/admin-post.php" method="post" name="content-form-65fbfee8" id="content-form-65fbfee8"><input type="hidden" id="_wpnonce_newsletter" name="_wpnonce_newsletter" value="a21da80b83" /><input type="hidden" name="_wp_http_referer" value="/wp-admin/admin-ajax.php" /><input type="hidden" name="action" value="content_form_submit" /><input type="hidden" name="form-type" value="newsletter" /><input type="hidden" name="form-builder" value="elementor" /><input type="hidden" name="post-id" value="454" /><input type="hidden" name="form-id" value="65fbfee8" />
+			<form action="https://bar-auditorium.fr/wp-admin/admin-post.php" method="post" name="content-form-65fbfee8" id="content-form-65fbfee8"><input type="hidden" id="_wpnonce_newsletter" name="_wpnonce_newsletter" value="a21da80b83" /><input type="hidden" name="_wp_http_referer" value="/wp-admin/admin-ajax.php" /><input type="hidden" name="action" value="content_form_submit" /><input type="hidden" name="form-type" value="newsletter" /><input type="hidden" name="form-builder" value="elementor" /><input type="hidden" name="post-id" value="461" /><input type="hidden" name="form-id" value="65fbfee8" />
         <fieldset>
             <label for="data[65fbfee8][email]"
 				>
