@@ -2,7 +2,12 @@
 ID: 71
 post_title: 'Halsey, &#8220;Bad At Love&#8221;'
 author: admin-bar-auditorium
-post_excerpt: ""
+post_excerpt: >
+  Halsey poursuit la promotion de son
+  deuxième album “Hopeless Fountain
+  Kingdom”. Après “Now or Never”,
+  la chanteuse américaine dévoile son
+  clip.
 layout: post
 permalink: >
   https://bar-auditorium.fr/halsey-bad-at-love/
