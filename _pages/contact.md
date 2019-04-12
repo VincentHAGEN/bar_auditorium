@@ -39,13 +39,15 @@ post_date: 2019-02-15 09:16:02
 				<textarea id="g-recaptcha-response" name="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid #c1c1c1; margin: 10px 25px; padding: 0px; resize: none;">
 				</textarea>
 </noscript>
+<p><label><input type="checkbox" name="Consentement" value="1" aria-invalid="false" />J'accepte les conditions générales d'utilisation.</label></p>
+<p><label><input type="checkbox" name="Consentement" value="1" aria-invalid="false" />Je consens à ce que mes données soumises soient recueillies et stockées comme décrit par le site Bar Auditorium.</label></p>
 <p><input type="submit" value="Envoyer" /></p>
 </form>                    
 			<h2>Trouvez nous sur Google Map</h2>		
 			<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=1%20Boulevard%20de%20Verdun%2C%2086000%20Poitiers&amp;t=m&amp;z=15&amp;output=embed&amp;iwloc=near" aria-label="1 Boulevard de Verdun, 86000 Poitiers"></iframe>		
 		<p><strong>Coordonnée : <br /></strong>Téléphone : <a title="Appeler avec Hangouts" href="https://www.google.com/search?q=bar+auditorium+poitiers&amp;oq=bar+auditorium+poitiers&amp;aqs=chrome..69i57j69i60l2.5826j0j7&amp;sourceid=chrome&amp;ie=UTF-8#" data-number="+33549392929" data-pstn-out-call-url="" data-rtid="igwhUkM8zjZ0" data-ved="2ahUKEwjnmda91_ngAhXE1eAKHYxmD7wQkAgoADAUegQIERAD">05 49 39 29 29</a></p>		
 			<h4>NEWSLETTER</h4>		
-			<form action="https://bar-auditorium.fr/wp-admin/admin-post.php" method="post" name="content-form-7fc9acc6" id="content-form-7fc9acc6"><input type="hidden" id="_wpnonce_newsletter" name="_wpnonce_newsletter" value="18d5830da7" /><input type="hidden" name="_wp_http_referer" value="/wp-admin/admin-ajax.php" /><input type="hidden" name="action" value="content_form_submit" /><input type="hidden" name="form-type" value="newsletter" /><input type="hidden" name="form-builder" value="elementor" /><input type="hidden" name="post-id" value="14" /><input type="hidden" name="form-id" value="7fc9acc6" />
+			<form action="https://bar-auditorium.fr/wp-admin/admin-post.php" method="post" name="content-form-7fc9acc6" id="content-form-7fc9acc6"><input type="hidden" id="_wpnonce_newsletter" name="_wpnonce_newsletter" value="e4ef5e227b" /><input type="hidden" name="_wp_http_referer" value="/wp-admin/admin-ajax.php" /><input type="hidden" name="action" value="content_form_submit" /><input type="hidden" name="form-type" value="newsletter" /><input type="hidden" name="form-builder" value="elementor" /><input type="hidden" name="post-id" value="14" /><input type="hidden" name="form-id" value="7fc9acc6" />
         <fieldset>
             <label for="data[7fc9acc6][email]"
 				>
