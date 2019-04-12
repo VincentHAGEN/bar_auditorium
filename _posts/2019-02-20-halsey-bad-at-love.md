@@ -7,7 +7,27 @@ post_excerpt: >
   deuxième album “Hopeless Fountain
   Kingdom”. Après “Now or Never”,
   la chanteuse américaine dévoile son
-  clip.
+  clip. Encore inconnue du grand public il
+  y a deux ans, Halsey connaît une
+  trajectoire fulgurante. En effet, armée
+  de son tempérament bien affirmé et de
+  sa plume à vif, la chanteuse
+  américaine a mis tout le monde
+  d’accord avec son premier album
+  « Badlands » (2015), défendu par
+  « Colors » ou le tube « New
+  Americana ». Mais depuis sa
+  collaboration avec les Chainsmokers,
+  tout s’est accéléré ! En
+  conséquent, elle est restée numéro un
+  aux Etats-Unis durant 12 semaines,
+  Halsey a signé le plus gros hit de
+  l’année 2016, chanté pour le film
+  « Le chasseur et la reine des
+  glaces » puis rejoint le prestigieux
+  casting musical du film « 50 nuances
+  plus sombres » avec son titre « Not
+  Afraid Anymore ».
 layout: post
 permalink: >
   https://bar-auditorium.fr/halsey-bad-at-love/
