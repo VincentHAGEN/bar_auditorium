@@ -2,7 +2,14 @@
 ID: 73
 post_title: M-83 et Mai Lan
 author: admin-bar-auditorium
-post_excerpt: ""
+post_excerpt: >
+  Quatre ans après le succès planétaire
+  de “Hurry Up, We’re Dreaming”, M83
+  fait un virage à 180 degrés cette
+  semaine avec “Junk”, Un disque
+  truffé de références aux années 80
+  comme en atteste le single « Go »,
+  interprété par Mai Lan. Écoutez !
 layout: post
 permalink: >
   https://bar-auditorium.fr/m-83-et-mai-lan-prets-a-danser/
