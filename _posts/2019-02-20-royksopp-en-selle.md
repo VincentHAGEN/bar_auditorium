@@ -2,7 +2,17 @@
 ID: 75
 post_title: Royksopp, en selle
 author: admin-bar-auditorium
-post_excerpt: ""
+post_excerpt: >
+  Le groupe de musique électropop
+  Royksopp délivre déjà son cinquième
+  album, « The Inevitable End », son
+  cinquième et ultime album. En effet,
+  soutenu par les singles « Monument »
+  avec Robyn, « Sordid Affair » ou « I
+  Had This Thing », ce disque avait
+  impressionné les critiques par son
+  atmosphère planante et ses productions
+  maîtrisées.
 layout: post
 permalink: >
   https://bar-auditorium.fr/royksopp-en-selle/
