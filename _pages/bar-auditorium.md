@@ -99,7 +99,6 @@ Snapchat
  	<li><a href="https://bar-auditorium.fr/mentions-legales/">Mentions légales</a></li>
 </ul>
 </nav>
-
 <nav itemtype="http://schema.org/SiteNavigationElement" itemscope="itemscope" id="cbp-hsmenu-wrapper">
 <ul id="mega-menu">
  	<li><a href="https://bar-auditorium.fr/sponsors/">Sponsors</a></li>
