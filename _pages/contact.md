@@ -45,7 +45,7 @@ Vous avez une question ? Jetez d'abord un coup d’œil aux <a href="https://bar
 <noscript>
 <iframe src="https://www.google.com/recaptcha/api/fallback?k=6LcizZYUAAAAANR-PUjlbw7eabi68hZQZHV20k5S" frameborder="0" scrolling="no" style="width: 302px; height:422px; border-style: none;">
 </iframe>
-<textarea id="g-recaptcha-response" name="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid #c1c1c1; margin: 10px 25px; padding: 0px; resize: none;">&lt;br /&gt;
+<textarea id="g-recaptcha-response" name="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid #c1c1c1; margin: 10px 25px; padding: 0px; resize: none;">&lt;br /&gt;&lt;br /&gt;
 				</textarea>
 </noscript>
 
@@ -96,7 +96,6 @@ Snapchat
  	<li><a href="https://bar-auditorium.fr/mentions-legales/">Mentions légales</a></li>
 </ul>
 </nav>
-
 <nav itemtype="http://schema.org/SiteNavigationElement" itemscope="itemscope" id="cbp-hsmenu-wrapper">
 <ul id="mega-menu">
  	<li><a href="https://bar-auditorium.fr/sponsors/">Sponsors</a></li>
