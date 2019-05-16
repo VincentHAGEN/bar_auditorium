@@ -9,6 +9,7 @@ published: true
 post_date: 2019-02-20 14:14:37
 ---
 <button id="elementor-menu-toggle"></button>
+
 <nav itemtype="http://schema.org/SiteNavigationElement" itemscope="itemscope" id="elementor-navigation" role="navigation" aria-label="Elementor Menu">
 <ul id="elementor-navmenu">
  	<li><a href="https://bar-auditorium.fr/">Accueil</a></li>
@@ -91,6 +92,7 @@ Youtube
 Snapchat
 </a>
 <button id="elementor-menu-toggle"></button>
+
 <nav itemtype="http://schema.org/SiteNavigationElement" itemscope="itemscope" id="elementor-navigation" role="navigation" aria-label="Elementor Menu">
 <ul id="elementor-navmenu">
  	<li><a href="https://bar-auditorium.fr/sponsors/">Sponsors</a></li>
